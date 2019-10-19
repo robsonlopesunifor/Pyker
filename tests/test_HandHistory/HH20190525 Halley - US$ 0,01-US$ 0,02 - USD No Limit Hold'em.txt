@@ -1,0 +1,115 @@
+﻿
+PokerStars Zoom Hand #200751007103:  Hold'em No Limit ($0.01/$0.02) - 2019/05/25 19:37:54 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: calistro444 ($1.98 in chips) 
+Seat 2: Nahueluz ($1.95 in chips) 
+Seat 3: ShadowMonarc ($2.29 in chips) 
+Seat 4: danger3321 ($5.37 in chips) 
+Seat 5: Fr3dST ($5.29 in chips) 
+Seat 6: MisaIbiza44 ($5.44 in chips) 
+Nahueluz: posts small blind $0.01
+ShadowMonarc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to calistro444 [Jd 7s]
+danger3321: folds 
+Fr3dST: folds 
+MisaIbiza44: folds 
+calistro444: folds 
+Nahueluz: folds 
+Uncalled bet ($0.01) returned to ShadowMonarc
+ShadowMonarc collected $0.02 from pot
+ShadowMonarc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: calistro444 (button) folded before Flop (didn't bet)
+Seat 2: Nahueluz (small blind) folded before Flop
+Seat 3: ShadowMonarc (big blind) collected ($0.02)
+Seat 4: danger3321 folded before Flop (didn't bet)
+Seat 5: Fr3dST folded before Flop (didn't bet)
+Seat 6: MisaIbiza44 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #200750996573:  Hold'em No Limit ($0.01/$0.02) - 2019/05/25 19:37:30 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: Xoros 83 ($2.60 in chips) 
+Seat 2: zonewar2 ($2.88 in chips) 
+Seat 3: calistro444 ($2 in chips) 
+Seat 4: mobiloc ($1.76 in chips) 
+Seat 5: JTHS3432 ($4.26 in chips) 
+Seat 6: staub1 ($1.58 in chips) 
+zonewar2: posts small blind $0.01
+calistro444: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to calistro444 [2s 7s]
+mobiloc: folds 
+JTHS3432: folds 
+staub1: calls $0.02
+Xoros 83: folds 
+zonewar2: raises $0.06 to $0.08
+calistro444: folds 
+staub1: calls $0.06
+*** FLOP *** [6c Kc 7c]
+zonewar2: bets $0.06
+staub1: calls $0.06
+*** TURN *** [6c Kc 7c] [6h]
+zonewar2: checks 
+staub1: bets $0.15
+zonewar2: folds 
+Uncalled bet ($0.15) returned to staub1
+staub1 collected $0.29 from pot
+staub1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [6c Kc 7c 6h]
+Seat 1: Xoros 83 (button) folded before Flop (didn't bet)
+Seat 2: zonewar2 (small blind) folded on the Turn
+Seat 3: calistro444 (big blind) folded before Flop
+Seat 4: mobiloc folded before Flop (didn't bet)
+Seat 5: JTHS3432 folded before Flop (didn't bet)
+Seat 6: staub1 collected ($0.29)
+
+
+
+PokerStars Zoom Hand #200751033886:  Hold'em No Limit ($0.01/$0.02) - 2019/05/25 19:38:56 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: exhorder1987 ($2.73 in chips)
+Seat 2: Juonez ($10.56 in chips)
+Seat 3: calistro444 ($2 in chips)
+Seat 4: darumakun ($2.12 in chips)
+Seat 5: MaksDV ($1.59 in chips)
+Seat 6: staub1 ($1.71 in chips)
+Juonez: posts small blind $0.01
+calistro444: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to calistro444 [4s Qs]
+darumakun: raises $0.03 to $0.05
+MaksDV: folds
+staub1: folds
+exhorder1987: calls $0.05
+Juonez: folds
+calistro444: folds
+*** FLOP *** [4c Ah Td]
+darumakun: bets $0.07
+exhorder1987: calls $0.07
+*** TURN *** [4c Ah Td] [9c]
+darumakun: checks
+exhorder1987: bets $0.17
+darumakun: calls $0.17
+*** RIVER *** [4c Ah Td 9c] [8h]
+darumakun: checks
+exhorder1987: checks
+*** SHOW DOWN ***
+darumakun: shows [As 4h] (two pair, Aces and Fours)
+exhorder1987: mucks hand
+darumakun collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02
+Board [4c Ah Td 9c 8h]
+Seat 1: exhorder1987 (button) mucked [Jh Ks]
+Seat 2: Juonez (small blind) folded before Flop
+Seat 3: calistro444 (big blind) folded before Flop
+Seat 4: darumakun showed [As 4h] and won ($0.59) with two pair, Aces and Fours
+Seat 5: MaksDV folded before Flop (didn't bet)
+Seat 6: staub1 folded before Flop (didn't bet)
+

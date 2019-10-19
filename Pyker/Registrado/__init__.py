@@ -1,0 +1,2 @@
+from .Registrado import Registrado
+
