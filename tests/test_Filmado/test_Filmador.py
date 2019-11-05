@@ -18,13 +18,16 @@ class FilmadoTest(unittest.TestCase):
         registrado.listar_telas()
 
         for idx in range(len(registrado.lista_de_telas)):
-            tarefa = Filmado.Filmado(lista_de_carta, idx, 'http://localhost:8000/api/v1/cenografo/', 1000)
+            tarefa = Filmado.Filmado(lista_de_carta, idx, 'http://localhost:8000/api/v1/cenografo/', 10)
             tarefa.start()
             terafas.append(tarefa)
 
-        url = 'http://localhost:8002/api/v1/cientista_analizar'
         headers = {'content-type': 'application/json'}
+        url = 'http://localhost:8002/api/v1/cientista_analizar'
         requests.post(url,headers=headers)
+
+        #url = 'http://localhost:8002/api/v1/cenografo/salvar_imagens_do_redis/'
+        #requests.post(url,headers=headers)
 
         for tarefa in terafas:
             tarefa.join()

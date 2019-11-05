@@ -41,13 +41,16 @@ class Registrado:
         chave = self.gerar_chave(tela,data)
         carta = {'titulo':self.lista_de_telas[tela]['titulo'],
                  'tela':tela,
-                 'data':data.strftime("%Y-%m-%d %H:%M:%S"),
+                 'data':data.strftime("%Y-%m-%d %H:%M:%S.%f"),
+                 #'data_dia':data.strftime("%Y-%m-%d"),
+                 #'data_hora':data.strftime("%H-%M-%S-%f"),
                  'chave':chave,
                  'recorte':self.lista_de_telas[tela]['recorte'],
 
                  'foto':None,
                  'fotografo_processado': False,
                  'endereco_imegem': '',
+                 #'foto_registrada': False,
                  'foto_salvo': False,
 
                  'cena': None,

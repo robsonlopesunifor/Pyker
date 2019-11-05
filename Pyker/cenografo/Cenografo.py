@@ -16,7 +16,6 @@ class Cenografo(object):
         ficheiro.setdefault('tela',{'A':cartas['tela']})
         ficheiro.setdefault('data', {'A': cartas['data']})
         cartas['cena'] = ficheiro
-        cartas['foto'] = ""
         cartas['cenografo_processado'] = True
         cartas['nova_carta'] = self.nova_carta(index)
 
@@ -31,7 +30,7 @@ class Cenografo(object):
                     ficheiro_atual = deepcopy(atual['cena'])
                     ficheiro_anterior = deepcopy(anterior['cena'])
                     for chave, valor in ficheiro_atual.items():
-                        if chave != 'data' and ficheiro_atual[chave] != ficheiro_anterior[chave]:
+                        if (chave != 'data' and chave != 'data_dia' and chave != 'data_hora' ) and ficheiro_atual[chave] != ficheiro_anterior[chave]:
                             return True # se for diferente do anterior, ira chegar aqui.
                     return False # se for igual ao anterior, ira chegar aqui.
         else:

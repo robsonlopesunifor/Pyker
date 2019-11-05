@@ -23,10 +23,20 @@ class Filmado(threading.Thread):
         self.registrar()
 
     def registrar(self):
-        while len(self.lista_de_cartas) <= self.numero_de_cartas:
+        while self.quantidade_cartas_novas() <= self.numero_de_cartas:
             index = self.registrador.registrar(self.tela)
             self.fotografo.fotografar(index)
             self.cenografo.cenofrafar(index)
-            print(self.tela, len(self.lista_de_cartas))
+            print(self.tela, self.quantidade_cartas_novas(), len(self.lista_de_cartas))
+            self.dados.registrar_imagem(index)
             self.dados.salvar_cenografo(index)
         print('fim da tread: ', self.tela)
+
+    def quantidade_cartas_novas(self):
+        contador = 0
+        for item in self.lista_de_cartas:
+            if item['nova_carta'] == True:
+                contador += 1
+        return contador
+
+
